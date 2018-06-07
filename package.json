@@ -1,0 +1,28 @@
+{
+  "name": "ff",
+  "version": "1.0.0",
+  "description": "ff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayhon/friendFinder.git"
+  },
+  "keywords": [
+    "friendFinder"
+  ],
+  "author": "kayhon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayhon/friendFinder/issues"
+  },
+  "homepage": "https://github.com/kayhon/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
